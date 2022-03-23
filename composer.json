@@ -1,5 +1,5 @@
 {
-    "name": "quilhasoft/jasperphp-openboleto",
+    "name": "schumannlabs/jasperphp-openboleto",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario","jasper"],
