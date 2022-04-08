@@ -321,7 +321,7 @@
 				<textElement>
 					<font size="6"/>
 				</textElement>
-				<text><![CDATA[Numero do Documento]]></text>
+				<text><![CDATA[Número do Documento]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="272" y="66" width="69" height="8" uuid="54904dcc-0f5e-4943-8762-0fa1a077e94a"/>
