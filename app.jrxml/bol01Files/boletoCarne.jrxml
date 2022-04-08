@@ -125,7 +125,7 @@
 				<textElement>
 					<font size="6"/>
 				</textElement>
-				<text><![CDATA[Endereço do Beneficiário/Sacador avaista]]></text>
+				<text><![CDATA[Endereço do Beneficiário/Sacador avalista]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="5" y="126" width="70" height="9" uuid="483fab93-ee05-4c07-80c0-15a95bc64bb4">
@@ -157,7 +157,7 @@
 				<textElement>
 					<font size="6"/>
 				</textElement>
-				<text><![CDATA[Numero do Documento]]></text>
+				<text><![CDATA[Número do Documento]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="5" y="182" width="71" height="9" uuid="0d9ddf2e-0945-43aa-8b49-19b98b28ae67">
@@ -288,7 +288,7 @@
 				<textElement>
 					<font size="6"/>
 				</textElement>
-				<text><![CDATA[Agencia/Codifo do Beneficiário]]></text>
+				<text><![CDATA[Agencia/Código do Beneficiário]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="274" y="84" width="62" height="10" uuid="6c8c772a-1ae8-422a-acee-4eb5945b7a11"/>
